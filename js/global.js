@@ -1,9 +1,9 @@
 /* global.js - theme by: brian a. bauska (grandpa) */
 $( function() {
-  // add background image - countdown to her 23rd birthday 11/04/2024 approx 7am.
+  // add background image - countdown to her 21st birthday 8/14/2025 approx 7am.
   $.backstretch('images/and the gay night life.jpg');
-  // date of birth: 11/04/01.
-  var endDate = "Nov  4, 2024 06:59:59";
+  // date of birth: 8/14/2004.
+  var endDate = "Aug 14, 2025 06:59:59";
   $('.countdown.simple').countdown({ date: endDate });
   $('.countdown.styled').countdown({
     date: endDate,
