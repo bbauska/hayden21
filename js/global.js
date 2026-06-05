@@ -3,7 +3,7 @@ $( function() {
   // add background image - countdown to her 21st birthday 8/14/2025 approx 7am.
   $.backstretch('images/and the gay night life.jpg');
   // date of birth: 8/14/2004.
-  var endDate = "Aug 14, 2025 06:59:59";
+  var endDate = "Aug 14, 2026 06:59:59";
   $('.countdown.simple').countdown({ date: endDate });
   $('.countdown.styled').countdown({
     date: endDate,
